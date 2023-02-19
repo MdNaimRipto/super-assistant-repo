@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "https://www.boloforms.com/_next/static/media/live-chat-support.8700dc17.png",
+        "title": "Whatsapp chat",
+        "desc": "Ask a question right now."
+    },
+    {
+        "id": 2,
+        "img": "https://www.boloforms.com/_next/static/media/support-email.d67bf660.png",
+        "title": "Email",
+        "desc": "Get in touch by email."
+    },
+    {
+        "id": 3,
+        "img": "https://www.boloforms.com/_next/static/media/helpcenter.1d93444b.png",
+        "title": "Help center",
+        "desc": "In Depth Guides."
+    },
+    {
+        "id": 4,
+        "img": "https://www.boloforms.com/_next/static/media/book-time.934f28c8.png",
+        "title": "Google Meet",
+        "desc": "Guided support and Q&A."
+    }
+]

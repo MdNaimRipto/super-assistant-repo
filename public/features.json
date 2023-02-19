@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "logo": "https://www.boloforms.com/_next/static/media/pr_agiledeploy.b988c9c8.svg",
+        "title": "Get started in less than 5 minutes",
+        "desc": "Just use an existing Google Form, add approvers, and we'll notify them via email when submissions are made."
+    },
+    {
+        "id": 2,
+        "logo": "https://www.boloforms.com/_next/static/media/pr_dyncaseroute.02285ff2.svg",
+        "title": "Multi-level workflows",
+        "desc": "To ensure that your executives do not approve a document until it has been reviewed and accepted by other employees, you can set up multi-level approval processes."
+    },
+    {
+        "id": 3,
+        "logo": "https://www.boloforms.com/_next/static/media/pr_dynbusrules.572419de.svg",
+        "title": "Dynamic Reciepients",
+        "desc": "Approvers can be selected based on the answers to a form response or entered manually by the requestor."
+    },
+    {
+        "id": 4,
+        "logo": "https://www.boloforms.com/_next/static/media/pr_socialtask.06e17c13.svg",
+        "title": "Role Based Workflows",
+        "desc": "Assign the following roles to your recipients: Approver, Receive a Copy, and Send Final Email Only."
+    },
+    {
+        "id": 5,
+        "logo": "https://www.boloforms.com/_next/static/media/pr_visualprcdesign.0ff90171.svg",
+        "title": "Conditional Logic",
+        "desc": "To prevent unnecessary work for approvers, set logic with your approvals to ensure approvers only receive the requests that are relevant to them."
+    },
+    {
+        "id": 6,
+        "logo": "https://www.boloforms.com/_next/static/media/pr_instaaccess.e822dad7.svg",
+        "title": "One-click Approvals",
+        "desc": "Notification emails are sent to users and can be approved with a single click."
+    },
+    {
+        "id": 7,
+        "logo": "https://www.boloforms.com/_next/static/media/pr_intuserinter.41c7f4bc.svg",
+        "title": "Responsive design",
+        "desc": "It is designed to be mobile-first, and seamlessly works on desktop and tablet as well."
+    },
+    {
+        "id": 8,
+        "logo": "https://www.boloforms.com/_next/static/media/pr_processoptim.f6216ec3.svg",
+        "title": "Enterprise grade security",
+        "desc": "Majority of data stored in your spreadsheet. This ensures you have the complete control of your data with end to end encryption."
+    },
+    {
+        "id": 9,
+        "logo": "https://www.boloforms.com/_next/static/media/pr_dashboard.64597267.svg",
+        "title": "Custom Dashboard",
+        "desc": "Track approvals of various forms from a single place! See the approval process for each request in real-time."
+    }
+]
